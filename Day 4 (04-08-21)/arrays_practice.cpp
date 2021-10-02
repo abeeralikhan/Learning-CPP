@@ -7,7 +7,7 @@ int main() {
     // One way
     int arrayOfMarks[5] = {1, 2, 3, 4, 5}; // IF MISTAKENLY PUT 1.1, IT'LL BE CONVERTED INTO 1
     char alphabets[5] = {'a', 'b', 'c', 'd', 'e'};
-    string myFriends[3] = {"Hamna", "Waleed", "Anamta"};
+    string myFriends[3] = {"Zubair", "Jahangir", "Jabbar"};
 
     // Another way: Most preferred one!
     int arrayOfNumbers[] = {1, 2, 3, 4, 5};
